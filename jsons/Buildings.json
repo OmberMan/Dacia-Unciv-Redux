@@ -1,0 +1,13 @@
+[
+        {
+                "name": "Dava",
+                "replaces": "Walls",
+                "cost": 75,
+                "uniqueTo": "Dacia",
+                "uniques": ["New [Melee] units start with [10] Experience [in this city]", "[+10]% Production when constructing [Land] units [in this city]"],
+                "cityStrength": 6,
+                "cityHealth": 50,
+                "hurryCostModifier": 5,
+                "requiredTech": "Masonry"
+        }
+]
