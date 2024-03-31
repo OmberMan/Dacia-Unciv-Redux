@@ -11,19 +11,7 @@
                 ],
                 "preferredVictoryType": "Domination",
                 "startIntroPart1": "... the Getae [Dacians] are the bravest of the Thracians and the most just. They believe they are immortal forever living in the following sense: they think they do not die and that the one who dies joins Zalmoxis, a divine being; some call this same divine being Gebeleizis. Every four years, they send a messenger to Zalmoxis, who is chosen by chance. They ask him to tell Zalmoxis what they want on that occasion. The mission is performed in the following way: men standing there for that purpose hold three spears; other people take the one who is sent to Zalmoxis by his hands and feet and fling him in the air on the spears. If he dies pierced, they think that the divinity is going to help them; if he does not die, it is he who is accused and they declare that he is a bad person... The messenger is told the requests while he is still alive. The same [Dacians], on other occasions, when he thunders and lightens, shoot with arrows up in the air against the sky and menace the divinity because they think there is no god other than their own.",
-                "startIntroPart2": "
-I am told by the Greeks who dwell on the shores of the Hellespont
-and the Pontus, that this Zalmoxis was in reality a man, that he lived
-at Samos, and while there was the slave of Pythagoras son of Mnesarchus.
-After obtaining his freedom he grew rich, and leaving Samos, returned
-to his own country. The Thracians at that time lived in a wretched
-way, and were a poor ignorant race; Zalmoxis, therefore, who by his
-commerce with the Greeks, and especially with one who was by no means
-their most contemptible philosopher, Pythagoras to wit, was acquainted
-with the Ionic mode of life and with manners more refined than those
-current among his countrymen, had a chamber built, in which from time
-to time he received and feasted all the principal Thracians, using
-the occasion to teach them that neither he, nor they, his boon companions,
+                "startIntroPart2": "I am told by the Greeks who dwell on the shores of the Hellespont \nand the Pontus, that this Zalmoxis was in reality a man, that he lived \nat Samos, and while there was the slave of Pythagoras son of Mnesarchus. \nAfter obtaining his freedom he grew rich, and leaving Samos, returned \nto his own country. The Thracians at that time lived in a wretched \nway, and were a poor ignorant race; Zalmoxis, therefore, who by his\ncommerce with the Greeks, and especially with one who was by no means\ntheir most contemptible philosopher, Pythagoras to wit, was acquainted\nwith the Ionic mode of life and with manners more refined than those \ncurrent among his countrymen, had a chamber built, in which from time \nto time he received and feasted all the principal Thracians, using \nthe occasion to teach them that neither he, nor they, his boon companions,
 nor any of their posterity would ever perish, but that they would
 all go to a place where they would live for aye in the enjoyment of
 every conceivable good. While he was acting in this way, and holding
@@ -34,9 +22,7 @@ mourned over him as one dead. He meanwhile abode in his secret chamber
 three full years, after which he came forth from his concealment,
 and showed himself once more to his countrymen, who were thus brought
 to believe in the truth of what he had taught them. Such is the account
-of the Greeks. 
-
-I for my part neither put entire faith in this story of Zalmoxis and
+of the Greeks. I for my part neither put entire faith in this story of Zalmoxis and
 his underground chamber, nor do I altogether discredit it: but I believe
 Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
                 "declaringWar": "Want to know my they call me the Human Can Opener? Too bad.",
@@ -59,7 +45,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
                 "uniques": [
                         "[+100]% Production when constructing [Dava] buildings [in all cities]", "[+100]% Production when constructing [Castle] buildings [in all cities]", "[+100]% Production when constructing [Arsenal] buildings [in all cities]", "[+100]% Production when constructing [Military Base] buildings [in all cities]", "[+100]% Production when constructing [Bomb Shelter] buildings [in all cities]", "All newly-trained [{Land} {Military}] units [in all cities] receive the [Tarabostes] promotion", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "[+4 Faith] from [{Holy Site} {Hill}] tiles [in all cities]"
                 ],
-"uniquesText": "Defensive buildings are constructed twice as fast. \n\nGain 5 [Faith] when a friendly land unit is killed. Military units always fight at full strength in Hill tiles, gain attacking strength and movement in friendly hills. \n+4 [Faith] from Holy Sites on Hill tiles.",
+"uniqueText": "Defensive buildings are constructed twice as fast. \n\nGain 5 [Faith] when a friendly land unit is killed. Military units always fight at full strength in Hill tiles, gain attacking strength and movement in friendly hills. \n+4 [Faith] from Holy Sites on Hill tiles.",
                 "cities": [
                         "Sarmizegetusa",
                         "Sucidava",
