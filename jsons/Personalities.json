@@ -1,1 +1,19 @@
-d
+[
+{
+"name": "Burebista",
+                "preferredVictoryType": "Domination",
+                "food": 4,
+                "production": 7,
+                "gold": 4,
+                "culture": 5,
+                "science": 5,
+                "faith": 8,
+                "military": 9,
+                "warMongering": 8,
+"priorities": {
+    "Honor": 30,
+    "Piety": 20,
+  "Tradition": 10,
+  "Liberty": 10
+}
+  ]
