@@ -1,0 +1,18 @@
+[
+  {
+		"name": "Falxman",
+		"unitType": "Sword",
+		"uniqueTo": "Dacia",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+	"uniques": ["[+33]% Strength <vs [Sword] units>", "Gain [+10] [Faith] (modified by game speed) <upon being defeated>", "[+25]% Strength <when attacking>"]
+		"hurryCostModifier": 25,
+		"attackSound": "slice"
+	},
+]
