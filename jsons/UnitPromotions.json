@@ -1,6 +1,6 @@
 [
 {
-        "name": "Pyrrhic Victory",
+        "name": "Tarabostes",
         "uniques": ["[+10]% Strength <when attacking> <in [{Friendly land} {Hill}] tiles>","Gain [5] [Faith] (modified by game speed) <upon being defeated>", "[+1] Movement <in [{Friendly land} {Hill}] tiles>"],
 	}
 ]
