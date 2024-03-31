@@ -2,7 +2,8 @@
           {
                 "name": "Dacia",
                 "leaderName": "Burebista", 
-            "startBias": ["Hill"],               
+            "startBias": ["Hill"],  
+                    "favoredReligion": "Zalmolxian",
 "style": "Slavic",
 "personality": "Burebista",
                 "adjective": [
