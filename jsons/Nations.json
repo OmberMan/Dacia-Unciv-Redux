@@ -59,7 +59,7 @@ Zalmoxis to have lived long before the time of Pythagoras. - Herodotus",
                 "uniques": [
                         "[+100]% Production when constructing [Dava] buildings [in all cities]", "[+100]% Production when constructing [Castle] buildings [in all cities]", "[+100]% Production when constructing [Arsenal] buildings [in all cities]", "[+100]% Production when constructing [Military Base] buildings [in all cities]", "[+100]% Production when constructing [Bomb Shelter] buildings [in all cities]", "All newly-trained [{Land} {Military}] units [in all cities] receive the [Tarabostes] promotion", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "[+4 Faith] from [{Holy Site} {Hill}] tiles [in all cities]"
                 ],
-"uniquestext": "Defensive buildings are constructed twice as fast. \n\nGain 5 [Faith] when a friendly land unit is killed. Military units always fight at full strength in Hill tiles, gain attacking strength and movement in friendly hills. \n+4 [Faith] from Holy Sites on Hill tiles.",
+"uniquesText": "Defensive buildings are constructed twice as fast. \n\nGain 5 [Faith] when a friendly land unit is killed. Military units always fight at full strength in Hill tiles, gain attacking strength and movement in friendly hills. \n+4 [Faith] from Holy Sites on Hill tiles.",
                 "cities": [
                         "Sarmizegetusa",
                         "Sucidava",
