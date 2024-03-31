@@ -27,9 +27,9 @@
                         156,
                         110
                 ], //185,75,55 158,2,10
-                "uniqueName": "Royal Glory",
+                "uniqueName": "Tautobalas",
                 "uniques": [
-                        "[+50]% Production when constructing [Walls] buildings [in all cities]", "[+50]% Production when constructing [Castle] buildings [in all cities]", "[+20]% City Strength from defensive buildings", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "New [Melee] units start with [10] Experience [in all cities] <when above [200] [Faith] (modified by game speed)>", "[+1 Production, -1 Gold] from [Mine] tiles [in all cities] <when at war>", "[+3 Faith] from [Holy Site] tiles [in all cities] <in [Hill] tiles>", 
+                        "[+50]% Production when constructing [Walls] buildings [in all cities]", "[+50]% Production when constructing [Castle] buildings [in all cities]", h "[+20]% City Strength from defensive buildings", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "New [Melee] units start with [10] Experience [in all cities] <when above [200] [Faith] (modified by game speed)>", "[+1 Production, -1 Gold] from [Mine] tiles [in all cities] <when at war>", "[+3 Faith] from [Holy Site] tiles [in all cities] <in [Hill] tiles>", 
                         "[+40]% XP gained from combat <when adjacent to a [Barbarian] unit>"
                 ],
                 "cities": [
