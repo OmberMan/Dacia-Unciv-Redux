@@ -29,8 +29,7 @@
                 ], //185,75,55 158,2,10
                 "uniqueName": "Tautobalas",
                 "uniques": [
-                        "[+100]% Production when constructing [Dava] buildings [in all cities]", "[+100]% Production when constructing [Castle] buildings [in all cities]", "[+100]% Production when constructing [Arsenal] buildings [in all cities]", "[+100]% Production when constructing [Military Base] buildings [in all cities]", "[+100]% Production when constructing [Bomb Shelter] buildings [in all cities]", "[+20]% City Strength from defensive buildings", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "[+1 Production, -1 Gold] from [Mine] tiles [in all cities] <when at war>", "[+4 Faith] from [{Holy Site} {Hill}] tiles [in all cities]", 
-                        "[+50]% XP gained from combat <when adjacent to a [Barbarian] unit>"
+                        "[+100]% Production when constructing [Dava] buildings [in all cities]", "[+100]% Production when constructing [Castle] buildings [in all cities]", "[+100]% Production when constructing [Arsenal] buildings [in all cities]", "[+100]% Production when constructing [Military Base] buildings [in all cities]", "[+100]% Production when constructing [Bomb Shelter] buildings [in all cities]", "All newly-trained [{Land} {Military}] units [in all cities] receive the [Tarabostes] promotion", "Damage is ignored when determining unit Strength <when fighting in [Hill] tiles>", "[+1 Production, +1 Faith, -1 Gold] from [Mine] tiles [in all cities] <when at war>", "[+4 Faith] from [{Holy Site} {Hill}] tiles [in all cities]", 
                 ],
                 "cities": [
                         "Sarmizegetusa",
