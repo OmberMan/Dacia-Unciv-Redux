@@ -1,0 +1,55 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Dava
+  rotate: false
+  xy: 1220, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Burebista
+  rotate: false
+  xy: 512, 12
+  size: 492, 492
+  orig: 492, 492
+  offset: 0, 0
+  index: -1
+NationIcons/Dacia
+  rotate: false
+  xy: 1012, 196
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Zamolxian
+  rotate: false
+  xy: 1012, 88
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Falxman
+  rotate: false
+  xy: 1120, 264
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Falxman
+  rotate: false
+  xy: 1012, 304
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tarabostes
+  rotate: false
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
