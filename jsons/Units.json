@@ -11,7 +11,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-	"uniques": ["[+33]% Strength <vs [Melee] units>", "[+25]% Strength <when attacking>"]
+	"uniques": ["[+33]% Strength <vs [Sword] units>", "[+25]% Strength <when attacking>"]
 		"hurryCostModifier": 25,
 		"attackSound": "slice"
 	},
