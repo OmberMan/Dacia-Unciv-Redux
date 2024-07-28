@@ -1,6 +1,6 @@
 [
 {
         "name": "Tarabostes",
-        "uniques": ["[+10]% Strength <when attacking> <in [{Hill} {Friendly Land}] tiles>","Gain [5] [Faith] <(modified by game speed)> <upon being defeated>", "[+1] Movement <in [{Hill} {Friendly Land}] tiles>"],
+        "uniques": ["[+10]% Strength <when attacking> <in [{Friendly Land}] tiles>","Gain [5] [Faith] <(modified by game speed)> <upon being defeated>", "[+1] Movement <in [{Friendly Land}] tiles>"],
 	}
 ]
