@@ -18,8 +18,8 @@
       "expansion": 7,
 "priorities": {
     "Honor": 30,
-    "Piety": 20,
-  "Tradition": 10,
+    "Piety": 30,
+  "Tradition": 20,
   "Liberty": 10
 }
 }
