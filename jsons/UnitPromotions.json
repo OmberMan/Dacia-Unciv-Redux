@@ -2,5 +2,13 @@
 {
         "name": "Tarabostes",
         "uniques": ["[+15]% Strength <when attacking> <in [{Friendly land} {Hill}] tiles>","Gain [7] [Faith] (modified by game speed) <upon being defeated>", "[+1] Movement <in [{Friendly land} {Hill}] tiles>"],
-	}
+	},
+ {
+        "name": "Sundering",
+        "uniques": ["[Target Unit] gains the [Sundered!] status for [2] turn(s) <with [40]% chance> <upon damaging a [Land] unit>"]
+    },
+                        {
+        "name": "Sundered!",
+        "uniques": ["[-20]% Strength <when defending> <vs [Melee] units>"]
+    }
 ]
