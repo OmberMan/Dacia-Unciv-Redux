@@ -11,6 +11,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
+                "promotions": ["Sundering"],
 	"uniques": ["[+33]% Strength <vs [Sword] units>", "[+25]% Strength <when attacking>"]
 		"hurryCostModifier": 25,
 		"attackSound": "slice"
